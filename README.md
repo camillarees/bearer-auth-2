@@ -4,7 +4,7 @@
 ### Version: 1.0.0
 
 ### Deployment and Documentation
-[Deployed Server on Render]()
+[Deployed Server on Render](https://bearer-auth-2.onrender.com/)
 ![Whiteboard](assets/lab-07-whiteboard.png)
 
 ## Overview
